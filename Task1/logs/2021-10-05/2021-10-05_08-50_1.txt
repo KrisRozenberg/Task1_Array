@@ -1,0 +1,4 @@
+2021-10-05 08:50:20 [main] [convertStringToIntArray] [28] ERROR org.rozenberg.task1.conversion.Conversion - Provided string cannot be parsed to an integer array
+2021-10-05 08:50:20 [main] [convertStringToIntArray] [15] ERROR org.rozenberg.task1.conversion.Conversion - String parsing is failed: input parameter is null
+2021-10-05 08:50:20 [main] [convertStringToIntArray] [32] INFO  org.rozenberg.task1.conversion.Conversion - The string has been parsed to an array: [3, 8549, -95, 18]
+2021-10-05 08:50:56 [main] [convertStringToIntArray] [32] INFO  org.rozenberg.task1.conversion.Conversion - The string has been parsed to an array: [3, 8549, -95, 18]

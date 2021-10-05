@@ -1,0 +1,5 @@
+2021-10-05 08:20:29 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [8 point 4 9   1 2 0 4368] validation
+2021-10-05 08:20:29 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [-12  63 9i8 47 254] validation
+2021-10-05 08:20:29 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [-3 0     18 120 -34 52 -6] validation
+2021-10-05 08:20:29 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [36 3 89 0 0 12] validation
+2021-10-05 08:20:29 [main] [readOneLine] [63] ERROR org.rozenberg.task1.reading.FileReading - No valid strings

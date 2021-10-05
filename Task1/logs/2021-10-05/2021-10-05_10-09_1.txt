@@ -1,0 +1,14 @@
+2021-10-05 10:09:20 [main] [countNegative] [100] ERROR rozenberg.task1.service.impl.FunctionalServiceImpl - Counting negative numbers operation cannot be applied: input parameter is null
+2021-10-05 10:09:20 [main] [countNegative] [109] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Found number of negative values in array: 1
+2021-10-05 10:09:20 [main] [countPositive] [84] ERROR rozenberg.task1.service.impl.FunctionalServiceImpl - Counting positive numbers operation cannot be applied: input parameter is null
+2021-10-05 10:09:20 [main] [countPositive] [93] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Found number of positive values in array: 2
+2021-10-05 10:09:20 [main] [excludeNegative] [116] ERROR rozenberg.task1.service.impl.FunctionalServiceImpl - Excluding negative numbers operation cannot be applied: input parameter is null
+2021-10-05 10:09:20 [main] [excludeNegative] [123] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Transformed array with zero vice negative numbers: 5 8 0 0
+2021-10-05 10:09:20 [main] [findAverage] [52] ERROR rozenberg.task1.service.impl.FunctionalServiceImpl - Finding average operation cannot be applied: input parameter is null
+2021-10-05 10:09:20 [main] [findAverage] [62] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Found average of the array's elements: 2.5
+2021-10-05 10:09:20 [main] [findMax] [18] ERROR rozenberg.task1.service.impl.FunctionalServiceImpl - Finding max operation cannot be applied: input parameter is null
+2021-10-05 10:09:20 [main] [findMax] [28] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Found max element of the array: 8
+2021-10-05 10:09:20 [main] [findMin] [35] ERROR rozenberg.task1.service.impl.FunctionalServiceImpl - Finding min operation cannot be applied: input parameter is null
+2021-10-05 10:09:20 [main] [findMin] [45] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Found min element of the array: -3
+2021-10-05 10:09:20 [main] [findSum] [69] ERROR rozenberg.task1.service.impl.FunctionalServiceImpl - Finding sum operation cannot be applied: input parameter is null
+2021-10-05 10:09:20 [main] [findSum] [77] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Found sum of the array's elements: 10

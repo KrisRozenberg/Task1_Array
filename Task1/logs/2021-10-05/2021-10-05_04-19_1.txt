@@ -1,0 +1,9 @@
+2021-10-05 04:19:17 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [8 point 4 9   1 2 0 4368] validation
+2021-10-05 04:19:17 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [-12  63 9i8 47 254] validation
+2021-10-05 04:19:17 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [-3 0     18 120 -34 52 -6] validation
+2021-10-05 04:19:17 [main] [isValid] [12] INFO  org.rozenberg.task1.validation.Validation - String [36 3 89 0 0 12] validation
+2021-10-05 04:19:17 [main] [convertStringToIntArray] [25] INFO  org.rozenberg.task1.conversion.Conversion - The string has been parsed to an array: [36, 3, 89, 0, 0, 12]
+2021-10-05 04:19:17 [main] [excludeNegative] [123] INFO  rozenberg.task1.service.impl.FunctionalServiceImpl - Transformed array with zero vice negative numbers: 36 3 89 0 0 12
+2021-10-05 04:19:17 [main] [bubbleSort] [31] INFO  rozenberg.task1.service.impl.SortServiceImpl - Bubble sort completed successfully. The sorted array: -9 0 2 3 12
+2021-10-05 04:19:17 [main] [mergeSort] [69] INFO  rozenberg.task1.service.impl.SortServiceImpl - Merge sort completed successfully. The sorted array: -9 0 2 3 12
+2021-10-05 04:19:17 [main] [quickSort] [114] INFO  rozenberg.task1.service.impl.SortServiceImpl - Quick sort completed successfully. The sorted array: -9 0 2 3 12

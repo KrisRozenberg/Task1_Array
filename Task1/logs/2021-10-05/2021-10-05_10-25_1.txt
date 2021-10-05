@@ -1,0 +1,8 @@
+2021-10-05 10:25:36 [main] [bubbleSort] [16] ERROR rozenberg.task1.service.impl.SortServiceImpl - Bubble sort is failed: input parameter is null
+2021-10-05 10:25:36 [main] [bubbleSort] [31] INFO  rozenberg.task1.service.impl.SortServiceImpl - Bubble sort completed successfully. The sorted array: -3 0 5 8 128
+2021-10-05 10:25:36 [main] [mergeSort] [37] ERROR rozenberg.task1.service.impl.SortServiceImpl - Merge sort is failed: input parameter is null
+2021-10-05 10:25:36 [main] [mergeSort] [37] ERROR rozenberg.task1.service.impl.SortServiceImpl - Merge sort is failed: input parameter is null
+2021-10-05 10:25:36 [main] [bubbleSort] [31] INFO  rozenberg.task1.service.impl.SortServiceImpl - Bubble sort completed successfully. The sorted array: -3 0 5 8 128
+2021-10-05 10:25:36 [main] [quickSort] [76] ERROR rozenberg.task1.service.impl.SortServiceImpl - Quick sort is failed: input parameter is null
+2021-10-05 10:25:36 [main] [quickSort] [76] ERROR rozenberg.task1.service.impl.SortServiceImpl - Quick sort is failed: input parameter is null
+2021-10-05 10:25:36 [main] [bubbleSort] [31] INFO  rozenberg.task1.service.impl.SortServiceImpl - Bubble sort completed successfully. The sorted array: -3 0 5 8 128
